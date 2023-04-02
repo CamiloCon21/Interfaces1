@@ -1,0 +1,102 @@
+* {
+    font-family: TITULOS;
+    color: white;
+}
+
+.Navbar {
+    background-color: rgb(31, 31, 32);
+    color: white;
+    height: 100;
+    margin: 0;
+    height: 10vh;
+    
+}
+
+.barra1 {
+    width: 100vh;
+    height: 8vh;
+}
+
+.btnnavbar {
+    
+    width: 50vh;
+    height: 10vh;
+    
+
+}
+
+.login {
+    width: 4vh;
+    height: 100;
+    position: relative;
+    transform: translate(18vh, 0vh);
+
+}
+
+.Titulo {
+    font-size: 15px;
+    width: 6vh;
+    height: 8vh;
+    position: relative;
+    transform: translate(20vh, -6.5vh);
+    margin-left: 3vh;
+    white-space: nowrap;
+}
+
+.LogoMarvel {
+    width: 60vh;
+}
+
+.Marvel {
+    width: 15vh;
+    height: 8vh;
+    position: relative;
+    transform: translate(35vh, 5%);
+}
+
+.Search {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    transform: translate(-4vh, -2vh);
+    margin-left: 3vh;
+    
+}
+
+.Subscribe {
+    width: 3vh;
+    height: 5vh;
+    position: relative;
+    transform: translate(19vh, -1vh);
+    margin-left: 3vh;
+}
+
+.Subscribe2 {
+    font-size: 12px;
+    width: 3vh;
+    height: 5vh;
+    position: relative;
+    transform: translate(24vh, -8vh);
+    margin-left: 3vh;
+    white-space: nowrap;
+}
+
+.Navbar2 {
+    background-color: rgb(31, 31, 32);
+    color: white;
+    width: 100;
+    padding-left: 6vh;
+    display: flex;
+    align-items: stretch;
+}
+
+.td {
+
+    align-items: stretch;
+    padding-left: 6vh;
+    position: relative;
+    transform: translate(40vh, -40%);
+    text-decoration: none;
+    font-size: 13px;
+
+}

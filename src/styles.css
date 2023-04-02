@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: TITULOS;
+    src: url(src\assets\Fonts\Titulo.otf) format('truetype');
+}
+
+.TITULOS{
+  font-family: TITULOS;
+}
+
+@font-face {
+    font-family: DESCRIPCION;
+    src: url(src\assets\Fonts\Descripcion.otf) format('truetype');
+}
+
+.DESCRIPCION{
+  font-family: DESCRIPCION;
+}

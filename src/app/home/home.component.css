@@ -1,0 +1,71 @@
+
+.showcase {
+    position: relative;
+    display: inline-block;
+}
+.background{
+    
+    height: 70vh;
+    width: 100%;    
+    top: 0;
+    left: 0;
+    z-index: -100;
+    filter: brightness(60%);
+   
+    
+}
+div {
+    text-align: center;
+  }
+  
+  td {
+    text-align: center;
+    margin-left: 5vh;
+  }
+  
+
+
+  * {
+    color: rgb(255, 255, 255);
+  }
+  .bordesito {
+    position: relative;
+    transform: translate(18vh, -6vh);
+    padding: 20px;
+    background-color: rgb(31, 31, 32);
+    width: 100px;
+    height: 20px;
+    border-right: rgb(72, 72, 73) 3px solid;
+    font-size: 12px;
+    font-family: TITULOS;
+  }
+  .texto {
+    position: absolute;
+    top: 35vh;
+    left: 40vh;
+    font-size: 15px;
+    font-family: TITULOS;
+}
+.texto2 {
+    position: absolute;
+    top: 45vh;
+    left: 40vh;
+    font-size: 30px;    
+    font-family: TITULOS;
+        
+    
+}
+
+.Descripcion {
+    position: absolute;
+    top: 52vh;
+    left: 39vh;
+    width: 70vh;
+    font-size: 18px;       
+    font-family: DESCRIPCION;
+   
+        
+    
+}
+ 
+  
